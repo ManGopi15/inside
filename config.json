@@ -1,0 +1,9 @@
+{
+	"ip":"BedSideSmpS4.aternos.me",
+	"port": "30428",
+	"name": "ManGopiBOT",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/gamemode creative ",
+	"login-cmd":"/gamemode creative "
+}
